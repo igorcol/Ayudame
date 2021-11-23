@@ -10,7 +10,7 @@ function Card({profileUrl, username, text, star}) {
       <div className="feedback-user-container">
         <div className="feedback-card-profile">
           {
-            profileUrl 
+            profileUrl
             ? <img src={profileUrl} className="feedback-profile-image" />
             : ''
           }

@@ -2,7 +2,7 @@
 export const Feedbacks = [
     {
         username: "Igor Colombini",
-        text: "O nome Ayúdame não é uma paródia com a udemy, é um pedido de socorro.",
+        text: "O nome Ayúdame não é uma paródia com a udemy, é um pedido de ajuda porfavor.",
         profileUrl: "https://i.imgur.com/hE68rAJ.jpg",
         stars: 5
     },
@@ -16,18 +16,18 @@ export const Feedbacks = [
         username: "Pedro Rocha",
         text: "Sei lá, nem fiz o enemkkkkkkkkkkkkkkkkk. Mas aprendi a jogar poker e blackjack",
         profileUrl: "https://i.imgur.com/vU5zgtP.jpg",
-        stars: 1
+        stars: 3
     },
     {
         username: "Andrea Braga",
         text: "Um dos melhores sites já criados, nota 10, professora deveria dar 10 para o trabalho",
         profileUrl: "https://i.imgur.com/nyKDuNI.jpg",
-        stars: 1
+        stars: 2
     },
     {
-        username: "Vinicius Batista.",
-        text: "Vou enfartar :(",
-        profileUrl: "https://i.imgur.com/TgWqY6U.png",
-        stars: 1
+        username: "Felipe Mariano.",
+        text: "Larguei o ensino médio pra fazer engenharia agronomica... Vou enfartar :(",
+        profileUrl: "https://i.imgur.com/PTZ9jpa.jpg",
+        stars: 4
     }
 ]
