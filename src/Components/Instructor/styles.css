@@ -1,0 +1,60 @@
+.instructor-section {
+    display: flex;
+    flex-direction: row;
+    width: 100%;
+    height: 800px;
+    background: #1c1c25;
+}
+
+.instructor-left {
+    display: flex;
+    width: 50%;
+    height: 100%;
+    justify-content: center;
+    overflow: hidden;
+}
+
+
+.instructor-right {
+    display: flex;
+    width: 50%;
+    height: 100%;
+    justify-content: center;
+    align-items: center;
+    color: #fff;
+    position: relative;
+    overflow: hidden;
+}
+
+.instructor-title-container {
+    color: #fff;
+    padding: 0 5.7vw;
+    z-index: 100;
+}
+
+.instructor-title {
+    font-size: 36px;
+    line-height: 28px;
+    font-weight: 600;
+}
+
+.instructor-name {
+    font-size: 70px;
+    font-weight: 700;
+    line-height: 80px;
+    margin: 20px 0;
+}
+
+.instructor-description {
+    font-size: 18px;
+    line-height: 150%;
+    color: #acacba;
+    width: 88%;
+}
+
+.wave-image {
+    position: absolute;
+    height: 2000px;
+    width: 2000px;
+    opacity: 50%;
+}

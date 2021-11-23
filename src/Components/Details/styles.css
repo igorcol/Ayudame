@@ -1,0 +1,19 @@
+.courses-details {
+    padding: 36px 0;
+    width: 100%;
+    background: #fff;
+    position: relative;
+    display: flex;
+    justify-content: center;
+    z-index: -1;
+    border-bottom: 1px solid #e2e2e2;
+    height: 166px;
+    display: flex;
+    flex-direction: row;
+}
+
+.details-container {
+    display: flex;
+    align-items: center;
+    flex-direction: row;
+}

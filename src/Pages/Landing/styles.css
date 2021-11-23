@@ -1,0 +1,22 @@
+
+.LandingPage {
+    display:flex;
+    flex-direction: column;
+    width: 100%;
+}
+
+::-webkit-scrollbar {
+    width: 8px;
+    background-color: var(--grey-blue);
+}
+
+::-webkit-scrollbar-track {
+    border: 2px solid var(--grey-blue);
+    border-radius: 20px;
+}
+
+::-webkit-scrollbar-thumb {
+    border: 2px solid var(--blue);
+    background: var(--blue);
+    border-radius: 50px;
+}

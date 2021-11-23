@@ -1,0 +1,11 @@
+:root {
+  --grey-blue: #2C2E37;
+  --blue: #6B88F2;
+}
+
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+  font-family: "Mukta";
+}

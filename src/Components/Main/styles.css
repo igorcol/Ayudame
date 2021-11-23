@@ -1,0 +1,40 @@
+
+
+.main-section {
+    height: 100vh;
+}
+
+.main-wrapper {
+    height: 100%;
+    width: 100%;
+    background-color: #212329;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.main-logo {
+    height: max-content;
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin-top: 10%;
+    margin-bottom: 200px;
+}
+.main-logo-image {
+    height: 200px;
+}
+
+.main-description {
+    color: #acacba;
+    text-align: center;
+    width: 50%;
+    font-size: 24px;
+    padding-bottom: 10px;
+    cursor: pointer;
+}
+.main-description:hover {
+    transform: scale(105%);
+    transition: all ease-in-out 250ms;
+}
